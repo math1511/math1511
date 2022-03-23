@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MatheusCamargo
-- 👀 I’m interested in becoming a dev
-- 🌱 I’m currently learning HTML/CSS/JS/Ruby
+- 🌱 I’m currently working with HTML/CSS/JS/Ruby
 - 💞️ I’m looking to collaborate on Full Stack Roles
 - 📫 How to reach me: (i) e-mail: matheusgacamargo@hotmail.com / (ii) whatsapp: +55 21 985 420 651
 
