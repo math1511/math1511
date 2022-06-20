@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusCamargo
 - 🌱 I’m currently working with Ruby on Rails/Javascript/CSS/HTML
-- 💞️ I’m looking to collaborate on Full Stack Roles
+- 💞️ I’m looking to collaborate on Fullstack Roles
 - 📫 How to reach me: E-mail: matheusgcamargo@hotmail.com / Whatsapp: +55 21 985 420 651
 
 <!---
